@@ -1,8 +1,7 @@
 {
-  "name": "Susse Maus ",
-  "short_name": "Susse Maus ",
-  "theme_color": "#fff5e0",
-  "background_color": "#FFF5E0",
+  "name": "Notenrechner",
+  "theme_color": "#121212",
+  "background_color": "#121212",
   "display": "fullscreen",
   "orientation": "portrait",
   "scope": "/",
