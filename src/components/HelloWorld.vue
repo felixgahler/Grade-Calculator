@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>Noten</h1>
+    <h1 class="text-base font-semibold text-white">Noten</h1>
   </div>
 </template>
 
@@ -10,6 +10,3 @@ export default {
 }
 </script>
 
-<style scoped>
-
-</style>
